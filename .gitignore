@@ -1,9 +1,9 @@
 *~
 *.out
 *.Rout
+*.Rproj
 .DS_Store
 .Rapp.history
 .RData
 .Rhistory
 .Rproj.user
-*.Rproj
